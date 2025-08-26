@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praisyangeline14
+- 👋 Hi, I’m @praisyangeline1418
 - 👀 I’m interested in artificaial intelligence
 - 🌱 I’m currently learning software development and ml-
 
